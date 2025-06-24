@@ -7,5 +7,5 @@ Programming Skills: Python, C, HTML, CSS, JavaScript
 -⚡ Fun Fact: When not coding, Asmi loves exploring new hobbies and reading books! 
 <!---
 AsmiK222/AsmiK222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
